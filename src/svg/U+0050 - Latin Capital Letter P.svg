@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="384px" height="448px" viewBox="0 0 384 448" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>U+0050 - Latin Capital Letter P</title>
+    <g id="Glyphs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="U+0050---Latin-Capital-Letter-P" fill="#AE0000">
+            <path d="M210,31.9996921 L210,128 L146,128 L145.999628,60.3521694 C112.492565,115.614802 96,170.04034 96,224 C96,266.320332 106.144904,308.927341 126.686511,352.000107 L287.999,351.999692 L288,31.9996921 L352,31.9996921 L352,416.000098 L88.3825572,416.000098 C50.9563615,352.675155 32,288.559783 32,224 C32,159.439986 50.9564976,95.324538 88.3829614,31.9996921 L210,31.9996921 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

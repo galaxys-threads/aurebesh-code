@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="384px" height="448px" viewBox="0 0 384 448" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>U+0038 - Digit Eight</title>
+    <g id="Glyphs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="U+0038---Digit-Eight" fill="#AE0000">
+            <path d="M352,416 L32,416 L32,32 L352,32 L352,416 Z M288,352 L288,256 L96,256 L96,352 L288,352 Z M288,192 L288,96 L96,96 L96,192 L288,192 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

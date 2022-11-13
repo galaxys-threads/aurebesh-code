@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="384px" height="448px" viewBox="0 0 384 448" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>U+0023 - Number Sign</title>
+    <g id="Glyphs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="U+0023---Number-Sign" fill="#AE0000">
+            <path d="M160,64 L159.999,127.999 L223.999,127.999 L224,64 L288,64 L287.999,127.999 L352,128 L352,192 L287.999,191.999 L287.999,255.999 L352,256 L352,320 L287.999,319.999 L288,384 L224,384 L223.999,319.999 L159.999,319.999 L160,384 L96,384 L95.999,319.999 L32,320 L32,256 L95.999,255.999 L95.999,191.999 L32,192 L32,128 L95.999,127.999 L96,64 L160,64 Z M223.999,255.999 L223.999,191.999 L159.999,191.999 L159.999,255.999 L223.999,255.999 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="384px" height="448px" viewBox="0 0 384 448" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>U+0025 - Percent Sign</title>
+    <g id="Glyphs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="U+0025---Percent-Sign" fill="#AE0000">
+            <path d="M345,32 L114.26879,416 L39.6047905,416 L270.33479,32 L345,32 Z M256,320 L352,320 L352,416 L256,416 L256,320 Z M320,352 L288,352 L287.999,384 L319.999,384 L320,352 Z M32,32 L128,32 L128,128 L32,128 L32,32 Z M96,64 L64,64 L63.999,96 L95.999,96 L96,64 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

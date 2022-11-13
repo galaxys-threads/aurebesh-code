@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="384px" height="448px" viewBox="0 0 384 448" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>U+0046 - Latin Capital Letter F</title>
+    <g id="Glyphs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="U+0046---Latin-Capital-Letter-F" fill="#AE0000">
+            <path d="M32,256.001089 L127.999,256.001 L128,32 L192,32 L191.999,256.001 C222.096192,256.001089 243.286216,241.874345 259.378306,209.69003 C278.090773,172.264936 288,112.809321 288,32 L352,32 C352,121.858072 340.575894,190.403001 316.621694,238.311603 C290.312863,290.92949 248.091718,319.427826 193.653382,319.992531 L191.999,320.001 L191.999,351.999 L352,352 L352,416 L32,416 L32,256.001089 Z M127.999,320.001 L96,320.001 L96,351.999 L127.999,351.999 L127.999,320.001 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

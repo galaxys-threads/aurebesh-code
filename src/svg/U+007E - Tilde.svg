@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="384px" height="448px" viewBox="0 0 384 448" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>U+007E - Tilde</title>
+    <g id="Glyphs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="U+007E---Tilde" fill="#AE0000" fill-rule="nonzero">
+            <path d="M175.045921,260.419843 C240.576638,219.482912 307.472855,219.482912 369.730433,260.920553 L334.269567,314.198382 C293.650747,287.163149 254.26554,286.892797 210.288139,313.873164 L208.954079,314.699092 C143.423362,355.636023 76.5271449,355.636023 14.2695675,314.198382 L49.7304325,260.920553 C90.3492533,287.955787 129.73446,288.226139 173.711861,261.245772 L175.045921,260.419843 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

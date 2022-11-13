@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="384px" height="448px" viewBox="0 0 384 448" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>U+002A - Asterisk</title>
+    <g id="Glyphs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="U+002A---Asterisk" fill="#AE0000">
+            <polygon id="Path" points="224 192 224 272 256 272 256 224 320 224 320 352 256 352 256 304 224 304 224 384 160 384 160 304 128 304 128 352 64 352 64 224 128 224 128 272 160 272 160 192"></polygon>
+        </g>
+    </g>
+</svg>
