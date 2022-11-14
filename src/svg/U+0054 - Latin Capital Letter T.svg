@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="384px" height="448px" viewBox="0 0 384 448" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="640px" height="870px" viewBox="0 0 640 870" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>U+0054 - Latin Capital Letter T</title>
-    <g id="Glyphs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="U+0054---Latin-Capital-Letter-T" fill="#AE0000">
-            <polygon id="Path" points="224 32 224 325.485 261.491 287.9934 352 287.9934 224 415.994871 160 416 32 287.9934 122.508 287.9934 160 325.485 160 32"></polygon>
+    <g id="Thin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="U+0054---Latin-Capital-Letter-T" fill="#199ED9">
+            <polygon id="Path" points="285 800 70 585 168.994 585 285 701.005 285 70 355 70 355 701.005 471.006 585 570 585 355 800"></polygon>
         </g>
     </g>
 </svg>

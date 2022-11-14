@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="384px" height="448px" viewBox="0 0 384 448" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="640px" height="870px" viewBox="0 0 640 870" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>U+0043 - Latin Capital Letter C</title>
-    <g id="Glyphs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="U+0043---Latin-Capital-Letter-C" fill="#AE0000">
-            <path d="M160,160 L224,160 L224,288 L160,288 L160,160 Z M288,160 L352,160 L352,416 L288,416 L288,160 Z M32,32 L96,32 L96,288 L32,288 L32,32 Z" id="Shape"></path>
+    <g id="Thin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="U+0043---Latin-Capital-Letter-C" fill="#199ED9">
+            <path d="M355,250 L355,620 L285,620 L285,250 L355,250 Z M140,70 L140,620 L70,620 L70,70 L140,70 Z M570,250 L570,800 L500,800 L500,250 L570,250 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="384px" height="448px" viewBox="0 0 384 448" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="640px" height="870px" viewBox="0 0 640 870" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>U+005F - Low Line</title>
-    <g id="Glyphs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="U+005F---Low-Line" fill="#AE0000">
-            <rect id="Rectangle" transform="translate(192.000000, 384.000000) rotate(-270.000000) translate(-192.000000, -384.000000) " x="160" y="224" width="64" height="320"></rect>
+    <g id="Thin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="U+005F---Low-Line" fill="#199ED9">
+            <rect id="Rectangle" transform="translate(320.000000, 765.000000) rotate(-270.000000) translate(-320.000000, -765.000000) " x="285" y="515" width="70" height="500"></rect>
         </g>
     </g>
 </svg>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="384px" height="448px" viewBox="0 0 384 448" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="640px" height="870px" viewBox="0 0 640 870" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>U+0062 - Latin Small Letter B</title>
-    <g id="Glyphs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="U+0062---Latin-Small-Letter-B" fill="#AE0000">
-            <path d="M98.259,303.999 L111.12,351.999 L272.881,352 L285.742,303.999 L352,303.999 L321.99,416 L62.011,416 L32,303.999 L98.259,303.999 Z M242,256 L242,320 L142,320 L142,256 L242,256 Z M321.989,159.999 L352,272 L285.741,272 L272.88,224 L111.119,223.999 L98.258,272 L32,272 L62.01,159.999 L321.989,159.999 Z" id="Combined-Shape"></path>
+    <g id="Thin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="U+0062---Latin-Small-Letter-B" fill="#199ED9">
+            <path d="M142.468,559.999 L188.02,730 L451.98,730 L497.532,559.999 L570,559.999 L505.693,800 L134.307,800 L70,559.999 L142.468,559.999 Z M420,490 L420,560 L220,560 L220,490 L420,490 Z M505.693,249.999 L570,490 L497.532,490 L451.98,319.999 L188.02,319.999 L142.468,490 L70,490 L134.307,249.999 L505.693,249.999 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

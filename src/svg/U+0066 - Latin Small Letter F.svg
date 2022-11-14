@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="384px" height="448px" viewBox="0 0 384 448" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="640px" height="870px" viewBox="0 0 640 870" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>U+0066 - Latin Small Letter F</title>
-    <g id="Glyphs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="U+0066---Latin-Small-Letter-F" fill="#AE0000">
-            <path d="M224,160 L224.001263,253.249401 C242.102685,249.761225 255.727858,243.017308 265.372583,233.372583 C280.041299,218.703867 288,194.827764 288,160 L352,160 C352,251.788797 306.743986,307.04083 224.001662,317.986397 L224,351.999 L352,352 L352,416 L32,416 L32,256 L160,256 L160,160 L224,160 Z M160,320 L96,320 L96,351.999 L160,351.999 L160,320 Z" id="Shape"></path>
+    <g id="Thin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="U+0066---Latin-Small-Letter-F" fill="#199ED9">
+            <path d="M70,525 L70,489.992 L73.893689,489.978741 C155.067829,489.380545 225.315852,477.531515 285.000671,454.354198 L285,250 L355,250 L355.001222,418.917833 C416.488082,379.286157 462.740319,323.027982 494.40044,250.006188 L570,250 L564.813368,262.983822 C521.458809,371.51129 451.113923,450.456434 355.003443,499.557875 L355,729.999 L570,730 L570,800 L70,800 L70,525 Z M285.005331,528.56979 C240.90473,543.060046 192.54175,552.549003 140,557.018783 L140,729.999 L285,729.999 L285.005331,528.56979 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

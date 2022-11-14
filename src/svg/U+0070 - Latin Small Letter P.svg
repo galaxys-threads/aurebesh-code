@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="384px" height="448px" viewBox="0 0 384 448" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="640px" height="870px" viewBox="0 0 640 870" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>U+0070 - Latin Small Letter P</title>
-    <g id="Glyphs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="U+0070---Latin-Small-Letter-P" fill="#AE0000">
-            <path d="M60.5896804,416.000114 C41.5960566,373.679132 32,330.940667 32,288 C32,245.05938 41.5960354,202.320963 60.5896175,160 L183,160 L183,256 L119,256 L119.000905,186.154868 C103.601182,220.447382 96,254.324408 96,288 C96,309.235462 99.0225541,330.551023 105.11715,352.000356 L288,352 L288,160 L352,160 L352,416.000114 L60.5896804,416.000114 Z" id="Path"></path>
+    <g id="Thin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="U+0070---Latin-Small-Letter-P" fill="#199ED9">
+            <path d="M152.605263,800.000684 C97.065837,708.986835 69,617.186856 69,525 C69,432.666507 97.1554438,340.863021 152.871844,250 L271,250 L271,435 L201,435 L200.999323,306.21041 C159.513553,379.797321 139,452.621582 139,525 C139,592.748082 156.972935,660.997061 193.294938,730.000499 L500,730 L500,250 L570,250 L570,800.000684 L152.605263,800.000684 Z" id="Path"></path>
         </g>
     </g>
 </svg>

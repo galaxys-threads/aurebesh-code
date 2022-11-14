@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="384px" height="448px" viewBox="0 0 384 448" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="640px" height="870px" viewBox="0 0 640 870" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>U+0025 - Percent Sign</title>
-    <g id="Glyphs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="U+0025---Percent-Sign" fill="#AE0000">
-            <path d="M345,32 L114.26879,416 L39.6047905,416 L270.33479,32 L345,32 Z M256,320 L352,320 L352,416 L256,416 L256,320 Z M320,352 L288,352 L287.999,384 L319.999,384 L320,352 Z M32,32 L128,32 L128,128 L32,128 L32,32 Z M96,64 L64,64 L63.999,96 L95.999,96 L96,64 Z" id="Shape"></path>
+    <g id="Thin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="U+0025---Percent-Sign" fill="#199ED9">
+            <polygon id="Path" points="472.719893 -2.27373675e-13 239.604 870 167.136 870 400.251893 -2.27373675e-13"></polygon>
+            <rect id="Rectangle" transform="translate(465.000000, 695.000000) rotate(-270.000000) translate(-465.000000, -695.000000) " x="430" y="660" width="70" height="70"></rect>
+            <rect id="Rectangle" transform="translate(175.000000, 175.000000) rotate(-270.000000) translate(-175.000000, -175.000000) " x="140" y="140" width="70" height="70"></rect>
         </g>
     </g>
 </svg>

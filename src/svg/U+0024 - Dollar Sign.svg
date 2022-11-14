@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="384px" height="448px" viewBox="0 0 384 448" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="640px" height="870px" viewBox="0 0 640 870" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>U+0024 - Dollar Sign</title>
-    <g id="Glyphs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="U+0024---Dollar-Sign" fill="#AE0000">
-            <polygon id="Path" points="96 224 64 224 64 160 32 160.000669 32 96 64 96 64 32 96 32 96 96 129 96 129 32 161 32 161 96 352 96 266.255 416 199.998 416 268.592 160.000669 161 160 161 224 129 224 129 160 96 160"></polygon>
+    <g id="Thin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="U+0024---Dollar-Sign" fill="#199ED9">
+            <path d="M70,70 L285,70 L285,0 L355,0 L355,70 L570,70 L570,140 L355,140 L355,400 L570,400 L570,800 L355,800 L355,870 L285,870 L285,800 L70,800 L70,730 L285,729.999 L285,469.999 L70,470 L70,70 Z M499.999,469.999 L355,469.999 L355,729.999 L499.999,729.999 L499.999,469.999 Z M140,400 L285,400 L285,140 L140,140 L140,400 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

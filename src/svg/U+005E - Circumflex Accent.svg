@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="384px" height="448px" viewBox="0 0 384 448" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="640px" height="870px" viewBox="0 0 640 870" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>U+005E - Circumflex Accent</title>
-    <g id="Glyphs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="U+005E---Circumflex-Accent" fill="#AE0000">
-            <polygon id="Path" points="192.276878 9 358.553755 105 326.553755 160.425626 192.276 82.9 58 160.425626 26 105"></polygon>
+    <g id="Thin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="U+005E---Circumflex-Accent" fill="#1A9DD9" fill-rule="nonzero">
+            <polygon id="Path-4" points="49.5493346 221.596298 320 26.871819 590.450665 221.596298 549.549335 278.403702 320 113.127 90.4506654 278.403702"></polygon>
         </g>
     </g>
 </svg>

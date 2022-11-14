@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="384px" height="448px" viewBox="0 0 384 448" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="640px" height="870px" viewBox="0 0 640 870" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>U+006F - Latin Small Letter O</title>
-    <g id="Glyphs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Thin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="U+006F---Latin-Small-Letter-O" fill="#AE0000">
-            <path d="M32,416 L100.595,160 L283.405,160 L352,416 L32,416 Z M268.594,351.999551 L234.295,224 L149.704,224 L115.406,351.999551 L268.594,351.999551 Z" id="Shape"></path>
+            <path d="M472.86,250 L569.841,800 L498.76,800 L141.079,799.999733 L141.078,800 L70,800 L166.98,250 L472.86,250 Z M414.124,319.999733 L225.716,319.999733 L153.422,729.999733 L486.418,729.999733 L414.124,319.999733 Z" id="Combined-Shape"></path>
         </g>
     </g>
 </svg>

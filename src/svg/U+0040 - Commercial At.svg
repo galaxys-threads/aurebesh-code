@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="384px" height="448px" viewBox="0 0 384 448" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="640px" height="870px" viewBox="0 0 640 870" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>U+0040 - Commercial At</title>
-    <g id="Glyphs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="U+0040---Commercial-At" fill="#AE0000" fill-rule="nonzero">
-            <path d="M352,96 L352,416 L32,416 L32,96 L352,96 Z M130,318 L130,194 L254,194 L254,286 L288,286 L288,160 L96,160 L96,352 L288,352 L288,318 L130,318 Z M222,226 L162,226 L162,286 L222,286 L222,226 Z" id="Shape"></path>
+    <g id="Thin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="U+0040---Commercial-At" fill="#199ED9">
+            <path d="M70,750 L70,250 L570,250 L570,750 L70,750 Z M500,320 L139.999,320 L139.999,680 L500,680 L500,610 L210,610 L210,390 L430,390 L430,540 L500,540 L500,320 Z M360,460 L280,460 L280,540 L360,540 L360,460 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="384px" height="448px" viewBox="0 0 384 448" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="640px" height="870px" viewBox="0 0 640 870" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>U+004A - Latin Capital Letter J</title>
-    <g id="Glyphs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="U+004A---Latin-Capital-Letter-J" fill="#AE0000">
-            <path d="M352,32 L249.107,416 L32,416 L32,352 L199.999,351.999 L233.128047,228.362509 C189.529188,267.789577 139.715837,288 84.9019963,288 L32,288 L32,224 L84.9019963,224 C164.284032,224 231.163007,162.373553 285.158877,32 L352,32 Z" id="Path"></path>
-            <path d="M352,32 L249.107,416 L32,416 L32,352 L199.999,351.999 L233.128047,228.362509 C189.529188,267.789577 139.715837,288 84.9019963,288 L32,288 L32,224 L84.9019963,224 C164.284032,224 231.163007,162.373553 285.158877,32 L352,32 Z" id="Path"></path>
+    <g id="Thin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="U+004A---Latin-Capital-Letter-J" fill="#199ED9">
+            <path d="M570,70 L374.397,800 L70,800 L70,730 L320.683,730 L396.239091,448.025869 C384.132624,465.167859 371.77382,481.178438 359.159576,496.058301 C276.891204,593.102734 182.801712,642.901264 78.3824384,642.901264 L70,642.901 L70,572.9 L78.3824384,572.900983 C160.735831,572.900983 236.032673,533.049021 305.764301,450.793032 C376.907824,366.87156 441.071412,239.886298 497.530289,70 L570,70 Z" id="Path"></path>
         </g>
     </g>
 </svg>

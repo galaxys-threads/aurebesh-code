@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="384px" height="448px" viewBox="0 0 384 448" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="640px" height="870px" viewBox="0 0 640 870" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>U+0050 - Latin Capital Letter P</title>
-    <g id="Glyphs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="U+0050---Latin-Capital-Letter-P" fill="#AE0000">
-            <path d="M210,31.9996921 L210,128 L146,128 L145.999628,60.3521694 C112.492565,115.614802 96,170.04034 96,224 C96,266.320332 106.144904,308.927341 126.686511,352.000107 L287.999,351.999692 L288,31.9996921 L352,31.9996921 L352,416.000098 L88.3825572,416.000098 C50.9563615,352.675155 32,288.559783 32,224 C32,159.439986 50.9564976,95.324538 88.3829614,31.9996921 L210,31.9996921 Z" id="Path"></path>
+    <g id="Thin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="U+0050---Latin-Capital-Letter-P">
+            <rect id="Rectangle" fill="#199ED9" x="500" y="70" width="70" height="730"></rect>
+            <rect id="Rectangle" fill="#199ED9" x="226" y="70" width="70" height="180"></rect>
+            <rect id="Rectangle" fill="#199ED9" transform="translate(382.000000, 765.000000) rotate(-90.000000) translate(-382.000000, -765.000000) " x="347" y="577" width="70" height="376"></rect>
+            <path d="M261.4547,70 L249.697082,88.658868 C176.409285,204.963523 140.0857,320.251447 140.0857,434.999739 C140.0857,549.748049 176.409293,665.036162 249.697105,781.34117 L261.4547,800.00055 L179.006595,800.00055 C106.576363,679.095018 70.0857004,557.291277 70.0857004,434.999739 C70.0857004,312.708496 106.57619,190.905198 179.00608,70 L261.4547,70 Z" id="Path" fill="#1A9DD9" fill-rule="nonzero"></path>
         </g>
     </g>
 </svg>

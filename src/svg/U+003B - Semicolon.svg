@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="384px" height="448px" viewBox="0 0 384 448" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="640px" height="870px" viewBox="0 0 640 870" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>U+003B - Semicolon</title>
-    <g id="Glyphs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="U+003B---Semicolon" fill="#AE0000">
-            <path d="M224,288 L224,352 L133.490332,442.509668 L88.235498,397.254834 L159.999498,325.49 L160,288 L224,288 Z M160,160 L224,160 L224,224 L160,224 L160,160 Z" id="Shape"></path>
+    <g id="Thin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="U+003B---Semicolon" fill="#199ED9">
+            <path d="M355,594 L355,734 L285,734 L285,594 L355,594 Z M355,384 L355,454 L285,454 L285,384 L355,384 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

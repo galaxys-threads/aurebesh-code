@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="384px" height="448px" viewBox="0 0 384 448" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="640px" height="870px" viewBox="0 0 640 870" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>U+003F - Question Mark</title>
-    <g id="Glyphs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="U+003F---Question-Mark" fill="#AE0000" fill-rule="nonzero">
-            <path d="M160,288 L160,224 L224,224 C248.161098,224 264.0372,218.707966 273.372583,209.372583 C282.707966,200.0372 288,184.161098 288,160 C288,137.587817 281.608122,123.206092 268.8,113.6 C253.975991,102.481993 228.856018,96.1278799 193.087165,96.0019094 L192,96 C155.652507,96 130.173747,102.36969 115.2,113.6 C102.391878,123.206092 96,137.587817 96,160 L32,160 C32,118.412183 46.9414556,84.7939083 76.8,62.4 C104.49292,41.63031 143.01416,32 192,32 C240.98584,32 279.50708,41.63031 307.2,62.4 C337.058544,84.7939083 352,118.412183 352,160 C352,241.673112 305.673112,288 224,288 L160,288 Z M160,352 L224,352 L224,416 L160,416 L160,352 Z" id="Shape"></path>
+    <g id="Thin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="U+003F---Question-Mark" fill="#199ED9">
+            <path d="M355,730 L355,800 L285,800 L285,730 L355,730 Z M570,70 L570,470 L354.999,470 L355,590 L285,590 L285,400 L499.999,400 L499.999,140 L70,140 L70,70 L570,70 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

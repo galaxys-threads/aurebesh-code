@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="384px" height="448px" viewBox="0 0 384 448" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="640px" height="870px" viewBox="0 0 640 870" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>U+0076 - Latin Small Letter V</title>
-    <g id="Glyphs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="U+0076---Latin-Small-Letter-V" fill="#AE0000">
-            <polygon id="Path" points="352 159.999331 224 287.998497 224 416 160 416 160 288.000497 32 160 122.508 159.999331 191.999 229.489497 261.49 159.999331"></polygon>
+    <g id="Thin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="U+0076---Latin-Small-Letter-V" fill="#199ED9">
+            <polygon id="Path" points="570 250 355 464.998525 355 800 285 800 285 464.999525 70 250 168.994 250 320 401.005525 471.005 250"></polygon>
         </g>
     </g>
 </svg>

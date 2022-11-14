@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="384px" height="448px" viewBox="0 0 384 448" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="640px" height="870px" viewBox="0 0 640 870" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>U+0026 - Ampersand</title>
-    <g id="Glyphs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="U+0026---Ampersand" fill="#AE0000">
-            <polygon id="Path" points="352 32 352 416 32 416 32 288 96 288 96 352 288 352 288 255.999 160 256 160 192 288 191.999 288 96 96 96 96 160 32 160 32 32"></polygon>
+    <g id="Thin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="U+0026---Ampersand" fill="#199ED9">
+            <polygon id="Shape" points="70 800 70 730 500 730 500 140 70 140 70 70 570 70 570 800"></polygon>
+            <rect id="Rectangle" x="71" y="70" width="70" height="250"></rect>
+            <rect id="Rectangle" x="71" y="550" width="70" height="250"></rect>
+            <rect id="Rectangle" transform="translate(445.000000, 435.000000) rotate(-270.000000) translate(-445.000000, -435.000000) " x="410" y="310" width="70" height="250"></rect>
         </g>
     </g>
 </svg>

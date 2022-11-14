@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="384px" height="448px" viewBox="0 0 384 448" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="640px" height="870px" viewBox="0 0 640 870" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>U+006A - Latin Small Letter J</title>
-    <g id="Glyphs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="U+006A---Latin-Small-Letter-J" fill="#AE0000">
-            <path d="M352,160 L283.404,416 L32,416 L32,352 L234.295,352 L247.758475,301.760677 C222.784684,313.83264 194.24988,320 162.358096,320 L32,320 L32,255.999053 L162.358096,256 C221.41344,256 260.728083,227.480048 284.341323,165.237185 L285.742653,160 L352,160 Z" id="Path"></path>
+    <g id="Thin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="U+006A---Latin-Small-Letter-J" fill="#199ED9">
+            <path d="M528.999969,249.997 L570,249.997 L422.628,800 L70,800 L70,730 L368.914,729.999 L438.735833,469.439223 C334.862252,593.295442 213.105628,656.290942 73.8179688,656.290942 L70,656.290942 L70,586.29 L73.8179688,586.290942 C241.545156,586.290942 382.448005,476.223128 497.530289,249.997 L528.999969,249.997 Z" id="Path"></path>
         </g>
     </g>
 </svg>

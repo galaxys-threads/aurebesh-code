@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="384px" height="448px" viewBox="0 0 384 448" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="640px" height="870px" viewBox="0 0 640 870" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>U+0032 - Digit Two</title>
-    <g id="Glyphs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="U+0032---Digit-Two" fill="#AE0000">
-            <polygon id="Path" points="96 256 96 352 352 352 352 416 32 416 32 192 288 192 288 96 32 96 32 32 352 32 352 256"></polygon>
+    <g id="Thin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="U+0032---Digit-Two" fill="#199ED9">
+            <path d="M70,470 L70,400 L499.999,400 L499.999,140 L70,140 L70,70 L570,70 L570,470 L70,470 Z M570,730 L570,800 L70,800 L70,730 L570,730 Z" id="Shape"></path>
+            <polygon id="Path" transform="translate(105.000000, 601.000000) rotate(-270.000000) translate(-105.000000, -601.000000) " points="304 566 304 636 -94 636 -94 566"></polygon>
         </g>
     </g>
 </svg>

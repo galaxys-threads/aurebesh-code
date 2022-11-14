@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="384px" height="448px" viewBox="0 0 384 448" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="640px" height="870px" viewBox="0 0 640 870" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>U+0079 - Latin Small Letter Y</title>
-    <g id="Glyphs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="U+0079---Latin-Small-Letter-Y" fill="#AE0000">
-            <polygon id="Path" points="194.467 160 217.036 288 152.05 288 135.122 192 102.628 192 130.841 352 253.157 352 287.012125 160 352 160 306.859 416 77.14 416 32 160"></polygon>
+    <g id="Thin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="U+0079---Latin-Small-Letter-Y" fill="#199ED9">
+            <polygon id="Path" points="570 250 422.628 800 350.159 800 497.530289 250"></polygon>
+            <polygon id="Path" transform="translate(179.920500, 525.000000) scale(-1, 1) translate(-179.920500, -525.000000) " points="289.841 250 142.469 800 70 800 217.371289 250"></polygon>
+            <rect id="Rectangle" x="242" y="730" width="155" height="70"></rect>
+            <rect id="Rectangle" x="100" y="250" width="178" height="70"></rect>
+            <path d="M288.42,250 L337.99092,434.999534 L265.52092,434.999534 L215.951,250 L288.42,250 Z" id="Combined-Shape"></path>
         </g>
     </g>
 </svg>

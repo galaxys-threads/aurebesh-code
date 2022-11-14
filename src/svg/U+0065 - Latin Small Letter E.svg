@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="384px" height="448px" viewBox="0 0 384 448" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="640px" height="870px" viewBox="0 0 640 870" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>U+0065 - Latin Small Letter E</title>
-    <g id="Glyphs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="U+0065---Latin-Small-Letter-E" fill="#AE0000">
-            <polygon id="Path" points="352.5 159.5 352.5 222.5 321 222.5 321 416 258 416 258 222.5 218.566 222.5 166.853 415.5 100.595 415.5 32 159.5 98.257 159.5 133.725 291.866 169.19 159.5"></polygon>
+    <g id="Thin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="U+0065---Latin-Small-Letter-E" fill="#199ED9">
+            <polygon id="Path" points="142.469711 250 253.606 664.77 364.743289 250 570 250 570 320 528.205 320 528.205289 800 458.205289 800 458.205 320 418.457 320 289.841 800 217.372 800 70 250"></polygon>
         </g>
     </g>
 </svg>

@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="384px" height="448px" viewBox="0 0 384 448" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="640px" height="870px" viewBox="0 0 640 870" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>U+006E - Latin Small Letter N</title>
-    <g id="Glyphs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="U+006E---Latin-Small-Letter-N" fill="#AE0000">
-            <path d="M131.777,160 L124.62167,174.310835 C105.449373,212.65543 96,250.452921 96,288 C96,321.363501 103.460946,354.92472 118.574761,388.891815 L179.907,160 L283.404,160 L352,416.000114 L285.742,416.000114 L231.656,214.146495 L177.569,416.000114 L60.5896804,416.000114 C41.5960566,373.679132 32,330.940667 32,288 C32,245.05938 41.5960354,202.320963 60.5896175,160 L131.777,160 Z" id="Path"></path>
+    <g id="Thin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="U+006E---Latin-Small-Letter-N">
+            <polygon id="Path" fill="#199ED9" points="422.628711 250 275.256711 800 202.787711 800 350.159 250"></polygon>
+            <polygon id="Path" fill="#199ED9" transform="translate(460.079500, 525.000000) scale(-1, 1) translate(-460.079500, -525.000000) " points="570 250 422.628 800 350.159 800 497.530289 250"></polygon>
+            <path d="M248.319463,249.99879 L233.277922,270.624236 C172.583093,353.843011 141.796863,438.635485 140.147435,525.663232 C138.500276,612.571294 165.993359,697.120757 223.364388,780.094642 L237.127463,800.000158 L152.554553,800.000158 C96.0221883,711.43468 68.359477,619.336868 70.1600043,524.336768 C71.9532031,429.723334 102.855585,338.101439 162.251522,249.99879 L248.319463,249.99879 Z" id="Path" fill="#1A9DD9" fill-rule="nonzero"></path>
         </g>
     </g>
 </svg>

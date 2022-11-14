@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="384px" height="448px" viewBox="0 0 384 448" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="640px" height="870px" viewBox="0 0 640 870" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>U+0021 - Exclamation Mark</title>
-    <g id="Glyphs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="U+0021---Exclamation-Mark" fill="#AE0000">
-            <path d="M160,32 L224,32 L224,288 L160,288 L160,32 Z M160,352 L224,352 L224,416 L160,416 L160,352 Z" id="Shape"></path>
+    <g id="Thin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="U+0021---Exclamation-Mark" fill="#199ED9">
+            <rect id="Rectangle" transform="translate(320.000000, 365.000000) rotate(-360.000000) translate(-320.000000, -365.000000) " x="285" y="1.36424205e-12" width="70" height="730"></rect>
+            <rect id="Rectangle" transform="translate(320.000000, 835.000000) scale(1, -1) rotate(360.000000) translate(-320.000000, -835.000000) " x="285" y="800" width="70" height="70"></rect>
         </g>
     </g>
 </svg>

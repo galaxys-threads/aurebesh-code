@@ -5,10 +5,15 @@ import os
 
 # https://fontforge.org/docs/scripting/python.html
 
-glyphWidth = 320
-upperCaseHeight = 384
-lowerCaseHeight = 256
-glyphPadding = 32
+glyphWidth = 500 # Thin
+upperCaseHeight = 730 # Thin
+lowerCaseHeight = 550 # Thin
+glyphPadding = 70 # Thin
+
+# glyphWidth = 320 # v2
+# upperCaseHeight = 384 # v2
+# lowerCaseHeight = 256 # v2
+# glyphPadding = 32 # v2
 
 fontName = "Aurebesh Code"
 fontVariant = "Regular"

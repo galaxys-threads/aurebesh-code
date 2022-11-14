@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="384px" height="448px" viewBox="0 0 384 448" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="640px" height="870px" viewBox="0 0 640 870" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>U+0059 - Latin Capital Letter Y</title>
-    <g id="Glyphs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="U+0059---Latin-Capital-Letter-Y" fill="#AE0000">
-            <polygon id="Path" points="99.71 416 32 32 194.467 32 217.036 160 152.05 160 135.122 64 102.628 64 153.411 352 230.588 352 287.012125 32 352 32 284.29 416"></polygon>
+    <g id="Thin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="U+0059---Latin-Capital-Letter-Y" fill="#199ED9">
+            <polygon id="Path" points="286.221 70 334.452 250 261.983 250 232.509 140 161.225 140 319.999 732.554 497.530289 70 570 70 374.397 800 265.603 800 70 70"></polygon>
         </g>
     </g>
 </svg>

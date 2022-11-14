@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="384px" height="448px" viewBox="0 0 384 448" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="640px" height="870px" viewBox="0 0 640 870" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>U+0033 - Digit Three</title>
-    <g id="Glyphs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="U+0033---Digit-Three" fill="#AE0000">
-            <polygon id="Path" points="32 32 352 32 352 416 32 416 32 352 287.999 352 287.999 256 32 256 32 192 287.999 192 287.999 96 32 96"></polygon>
+    <g id="Thin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="U+0033---Digit-Three" fill="#199ED9">
+            <path d="M70,800 L70,730 L500,730 L500,140 L70,140 L70,70 L570,70 L570,800 L70,800 Z M430,400 L430,470 L70,470 L70,400 L430,400 Z" id="Shape"></path>
+            <polygon id="Path" transform="translate(303.500000, 435.000000) rotate(-180.000000) translate(-303.500000, -435.000000) " points="537 400 537 470 70 470 70 400"></polygon>
         </g>
     </g>
 </svg>

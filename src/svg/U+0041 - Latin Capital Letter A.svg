@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="384px" height="448px" viewBox="0 0 384 448" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="640px" height="870px" viewBox="0 0 640 870" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>U+0041 - Latin Capital Letter A</title>
-    <g id="Glyphs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="U+0041---Latin-Capital-Letter-A" fill="#AE0000">
-            <path d="M32,208 L32,32 L96,32 L96,144 L149.489,144 L261.490559,32 L352,32 L175.998559,208 L32,208 Z M32,240 L32,416 L96,416 L96,304 L149.489,304 L261.490559,416 L352,416 L175.998559,240 L32,240 Z" id="Combined-Shape"></path>
+    <g id="Thin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="U+0041---Latin-Capital-Letter-A" fill="#199ED9">
+            <path d="M239.998669,470 L570,800 L471.004669,800 L211.005,540 L140,540 L140,800 L70,800 L70,470 L239.998669,470 Z M239.998669,400 L570,70 L471.004669,70 L211.005,330 L140,330 L140,70 L70,70 L70,400 L239.998669,400 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

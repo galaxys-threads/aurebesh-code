@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="384px" height="448px" viewBox="0 0 384 448" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="640px" height="870px" viewBox="0 0 640 870" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>U+0073 - Latin Small Letter S</title>
-    <g id="Glyphs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="U+0073---Latin-Small-Letter-S" fill="#AE0000">
-            <polygon id="Path" points="288 416 32 159.999331 122.508 159.999331 288 325.491331 288 160 352 160 352 416"></polygon>
-            <polygon id="Rectangle" points="32 382.871162 48.5644189 321.051909 172.202925 354.180747 155.638506 416"></polygon>
+    <g id="Thin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="U+0073---Latin-Small-Letter-S" fill="#199ED9">
+            <rect id="Rectangle" x="500" y="250" width="70" height="550"></rect>
+            <path d="M158.44,250 L570,776.771 L570,800 L499.316,800 L70,250.5 L70.639,250 L158.44,250 Z" id="Combined-Shape"></path>
+            <polygon id="Path" points="88.1173332 659.398083 360.508416 732.385192 342.391083 799.999862 70 727.013029"></polygon>
         </g>
     </g>
 </svg>

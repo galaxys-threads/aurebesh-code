@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="384px" height="448px" viewBox="0 0 384 448" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="640px" height="870px" viewBox="0 0 640 870" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>U+0053 - Latin Capital Letter S</title>
-    <g id="Glyphs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="U+0053---Latin-Capital-Letter-S" fill="#AE0000">
-            <path d="M140.29,32 L288,287.842 L288,32 L352,32 L352,416 L288,416 L288,415.840465 L66.391,32 L140.29,32 Z M48.5644189,305 L232.090326,354.175619 L215.525907,415.994871 L32,366.819253 L48.5644189,305 Z" id="Shape"></path>
+    <g id="Thin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="U+0053---Latin-Capital-Letter-S" fill="#199ED9">
+            <rect id="Rectangle" x="500" y="70" width="70" height="730"></rect>
+            <path d="M150.828,69.9998616 L569.999,796.024862 L569.999,799.999862 L491.466,799.999862 L70,69.9998616 L150.828,69.9998616 Z M88.1173332,659.398083 L360.508416,732.385192 L342.391083,799.999862 L70,727.013029 L88.1173332,659.398083 Z" id="Shape"></path>
         </g>
     </g>
 </svg>
